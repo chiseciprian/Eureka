@@ -1,0 +1,16 @@
+com\roytuts\spring\boot\auth\service\util\JwtUtil.class
+com\roytuts\spring\boot\auth\service\rest\controller\AuthRestController.class
+com\roytuts\spring\boot\auth\service\payload\response\MessageResponse.class
+com\roytuts\spring\boot\auth\service\exception\JwtTokenMissingException.class
+com\roytuts\spring\boot\auth\service\payload\response\JwtResponse.class
+com\roytuts\spring\boot\auth\service\services\UserDetailsServiceImpl.class
+com\roytuts\spring\boot\auth\service\payload\request\SignupRequest.class
+com\roytuts\spring\boot\auth\service\models\User.class
+com\roytuts\spring\boot\auth\service\services\UserDetailsImpl.class
+com\roytuts\spring\boot\auth\service\models\ERole.class
+com\roytuts\spring\boot\auth\service\repository\RoleRepository.class
+com\roytuts\spring\boot\auth\service\exception\JwtTokenMalformedException.class
+com\roytuts\spring\boot\auth\service\payload\request\LoginRequest.class
+com\roytuts\spring\boot\auth\service\repository\UserRepository.class
+com\roytuts\spring\boot\auth\service\AuthServiceApp.class
+com\roytuts\spring\boot\auth\service\models\Role.class

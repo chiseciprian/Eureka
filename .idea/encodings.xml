@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cloud-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-alert/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-alert/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-echo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-echo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-microservice-hello/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

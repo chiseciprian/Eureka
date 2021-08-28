@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-microservice-hello" />
+        <module name="spring-boot-microservice-alert" />
+        <module name="spring-boot-microservice-eureka" />
+        <module name="spring-boot-auth-service" />
+        <module name="spring-boot-cloud-gateway" />
+        <module name="spring-boot-microservice-echo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-auth-service" target="12" />
+      <module name="spring-boot-cloud-gateway" target="12" />
+      <module name="spring-boot-microservice-alert" target="12" />
+      <module name="spring-boot-microservice-echo" target="12" />
+      <module name="spring-boot-microservice-eureka" target="12" />
+      <module name="spring-boot-microservice-hello" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-auth-service" options="-parameters" />
+      <module name="spring-boot-cloud-gateway" options="-parameters" />
+      <module name="spring-boot-microservice-alert" options="-parameters" />
+      <module name="spring-boot-microservice-echo" options="-parameters" />
+      <module name="spring-boot-microservice-eureka" options="-parameters" />
+      <module name="spring-boot-microservice-hello" options="-parameters" />
+    </option>
+  </component>
+</project>

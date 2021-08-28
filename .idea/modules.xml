@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-auth/spring-boot-auth-service.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-auth/spring-boot-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cloud-gateway/spring-boot-cloud-gateway.iml" filepath="$PROJECT_DIR$/spring-boot-cloud-gateway/spring-boot-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-alert/spring-boot-microservice-alert.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-alert/spring-boot-microservice-alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-echo/spring-boot-microservice-echo.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-echo/spring-boot-microservice-echo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-eureka/spring-boot-microservice-eureka.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-eureka/spring-boot-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservice-hello/spring-boot-microservice-hello.iml" filepath="$PROJECT_DIR$/spring-boot-microservice-hello/spring-boot-microservice-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-gateway-security-jwt.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-gateway-security-jwt.iml" />
+    </modules>
+  </component>
+</project>
